@@ -2,23 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://kuki-zzq.github.io:1313/en/sitemap.xml</loc>
+    <loc>https://kuki-zzq.github.io:1313/zh-cn/sitemap.xml</loc>
     
       <lastmod>2026-04-13T13:48:49+08:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://kuki-zzq.github.io:1313/zh-cn/sitemap.xml</loc>
-    
-      <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://kuki-zzq.github.io:1313/ar/sitemap.xml</loc>
-    
-      <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    <loc>https://kuki-zzq.github.io:1313/ja/sitemap.xml</loc>
     
   </sitemap>
   
