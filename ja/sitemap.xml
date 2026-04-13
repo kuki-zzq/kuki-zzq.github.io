@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kuki-zzq.github.io:1313/ja/categories/</loc>
+    <loc>https://kuki-zzq.github.io/ja/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://kuki-zzq.github.io:1313/categories/"
+                href="https://kuki-zzq.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://kuki-zzq.github.io:1313/ja/categories/"
+                href="https://kuki-zzq.github.io/ja/categories/"
                 />
   </url><url>
-    <loc>https://kuki-zzq.github.io:1313/ja/tags/</loc>
+    <loc>https://kuki-zzq.github.io/ja/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://kuki-zzq.github.io:1313/tags/"
+                href="https://kuki-zzq.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://kuki-zzq.github.io:1313/ja/tags/"
+                href="https://kuki-zzq.github.io/ja/tags/"
                 />
   </url><url>
-    <loc>https://kuki-zzq.github.io:1313/ja/</loc>
+    <loc>https://kuki-zzq.github.io/ja/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://kuki-zzq.github.io:1313/"
+                href="https://kuki-zzq.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://kuki-zzq.github.io:1313/ja/"
+                href="https://kuki-zzq.github.io/ja/"
                 />
   </url>
 </urlset>
