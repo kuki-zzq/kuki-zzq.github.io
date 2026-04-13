@@ -13,15 +13,15 @@
         <pubDate>Mon, 13 Apr 2026 21:48:11 +0800</pubDate>
         
         <guid>http://localhost:1313/p/%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0%E6%B5%81%E7%A8%8B/</guid>
-        <description>&lt;p&gt;1.在dev文件夹下，在cmd里，用以下指令进行文章添加，
-hugo new content post/xxx/xxx.md&lt;/p&gt;
+        <description>&lt;p&gt;&lt;br /&gt; 1.在dev文件夹下，在cmd里，用以下指令进行文章添加，
+&lt;br /&gt; hugo new content post/xxx/xxx.md&lt;/p&gt;
 &lt;p&gt;2.在dev文件夹下，在cmd里，使用这两条指令对博客进行本地修改后的上传，
-hugo -D
-hugo server -D&lt;/p&gt;
+&lt;br /&gt; hugo -D
+&lt;br /&gt; hugo server -D&lt;/p&gt;
 &lt;p&gt;3.在public文件夹下，在Git Bush中，使用以下三条指令进行推送更新，
-git add .
-git commit -m &amp;ldquo;update&amp;rdquo;
-git push origin main&lt;/p&gt;
+&lt;br /&gt; git add .
+&lt;br /&gt; git commit -m &amp;ldquo;update&amp;rdquo;
+&lt;br /&gt; git push origin main&lt;/p&gt;
 </description>
         </item>
         <item>
