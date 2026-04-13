@@ -7,7 +7,43 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>左至桥</copyright>
-        <lastBuildDate>Mon, 13 Apr 2026 15:40:59 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 13 Apr 2026 21:48:11 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>博客更新流程</title>
+        <link>http://localhost:1313/p/%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0%E6%B5%81%E7%A8%8B/</link>
+        <pubDate>Mon, 13 Apr 2026 21:48:11 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0%E6%B5%81%E7%A8%8B/</guid>
+        <description>&lt;p&gt;1.在dev文件夹下，在cmd里，用以下指令进行文章添加，
+hugo new content post/xxx/xxx.md&lt;/p&gt;
+&lt;p&gt;2.在dev文件夹下，在cmd里，使用这两条指令对博客进行本地修改后的上传，
+hugo -D
+hugo server -D&lt;/p&gt;
+&lt;p&gt;3.在public文件夹下，在Git Bush中，使用以下三条指令进行推送更新，
+git add .
+git commit -m &amp;ldquo;update&amp;rdquo;
+git push origin main&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>人类实在是很吵的一种生物</title>
+        <link>http://localhost:1313/p/%E4%BA%BA%E7%B1%BB%E5%AE%9E%E5%9C%A8%E6%98%AF%E5%BE%88%E5%90%B5%E7%9A%84%E4%B8%80%E7%A7%8D%E7%94%9F%E7%89%A9/</link>
+        <pubDate>Mon, 13 Apr 2026 21:45:18 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/%E4%BA%BA%E7%B1%BB%E5%AE%9E%E5%9C%A8%E6%98%AF%E5%BE%88%E5%90%B5%E7%9A%84%E4%B8%80%E7%A7%8D%E7%94%9F%E7%89%A9/</guid>
+        <description>&lt;p&gt;愈发察觉到一件事情是，此前的我一直在做无谓的逞强，就为了那被父母高高架起的，其实从来都不曾存在过的所谓自尊心，这种东西，我才不要！&lt;/p&gt;
+&lt;p&gt;从今往后，不是我决意只做自己喜欢的事，而是我一定将无可救药地，无止尽地滑向除了喜欢地事什么也做不了的深渊底下去。&lt;/p&gt;
+&lt;p&gt;一直，就这样一直沉下去，下沉到，没有任何人能，没有任何人会找到我的，唯一安静的地方。&lt;/p&gt;
+&lt;p&gt;“兄弟！真的吗？”&lt;/p&gt;
+&lt;p&gt;仿佛是发生了什么好事一样，以至于让我误解到这种程度的，传达的指向性暧昧而又让人什么也感受不到的，以至于让人感到甚至是揶揄般的，不，其实他一定就是像揶揄我的吧，这样的话语，浮现在我的手机屏幕上。&lt;/p&gt;
+&lt;p&gt;然而紧接着的，是拿着A的手机给我回话的B，&lt;/p&gt;
+&lt;p&gt;“x月x号x时我给你发的消息，你怎么到第二天都没回呢？”&lt;/p&gt;
+&lt;p&gt;不用把时间写的这么清楚我也知道，而且还是发的语音，能令我预期到自身对其厌恶感的声音一定会出现，所以我只是看了转换的文字。而仅仅如此，就已经令我十分不快。&lt;/p&gt;
+&lt;p&gt;有事说事，只发“兄弟”两个字，谁知道怎么给你回复？事后，到了如今，都过了一个月之久，还在说这件已经被我认为过去了的事情，怎么这么缠人，怎么这么纠缠不休啊，能不能放过我啊，你们能不能闭嘴啊，闭上嘴安安静静做自己事情就这么难吗，我再次察觉到自己对于人力的不理解之深，绝望无比。&lt;/p&gt;
+&lt;p&gt;寝室舍友打游戏的噪声，微信响起的声音，耳机里朋友和其舍友吵闹的声音，いちいちうるせんだよくそが！&lt;/p&gt;
+&lt;p&gt;人类实在是很吵的一种生物。此时的我，希望人类是生来没有耳朵或是嘴巴这个器官的，只要没有其中之一就好，这样一来，我一定就不会再感到焦躁了。&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>建立博客之前的日记整合</title>
         <link>http://localhost:1313/p/%E5%BB%BA%E7%AB%8B%E5%8D%9A%E5%AE%A2%E4%B9%8B%E5%89%8D%E7%9A%84%E6%97%A5%E8%AE%B0%E6%95%B4%E5%90%88/</link>
         <pubDate>Mon, 13 Apr 2026 15:40:59 +0800</pubDate>
