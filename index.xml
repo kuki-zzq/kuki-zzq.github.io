@@ -7,7 +7,22 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>左至桥</copyright>
-        <lastBuildDate>Sun, 19 Apr 2026 15:28:43 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 19 Apr 2026 22:25:45 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>老中所谓的教育不过是自我厌恶的投射罢了</title>
+        <link>http://localhost:1313/p/%E8%80%81%E4%B8%AD%E6%89%80%E8%B0%93%E7%9A%84%E6%95%99%E8%82%B2%E4%B8%8D%E8%BF%87%E6%98%AF%E8%87%AA%E6%88%91%E5%8E%8C%E6%81%B6%E7%9A%84%E6%8A%95%E5%B0%84%E7%BD%A2%E4%BA%86/</link>
+        <pubDate>Sun, 19 Apr 2026 22:25:45 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/%E8%80%81%E4%B8%AD%E6%89%80%E8%B0%93%E7%9A%84%E6%95%99%E8%82%B2%E4%B8%8D%E8%BF%87%E6%98%AF%E8%87%AA%E6%88%91%E5%8E%8C%E6%81%B6%E7%9A%84%E6%8A%95%E5%B0%84%E7%BD%A2%E4%BA%86/</guid>
+        <description>&lt;p&gt;舅舅，他只不过是自己成了暴发户，钱上不愁了，所以转而开始追求所谓酒桌上的名誉，再投射到我身上 ，想让我读什么比物理，什么比基础学科，然后考研，考博，一直读下去，成个什么冠冕堂皇的教授。&lt;/p&gt;
+&lt;p&gt;就跟这所学校里的那些无趣至极的臭老头子一样，在学校里，被别人捧臭脚，捧一辈子吧，你们这群，想不到骂什么了。总之,祝你们横尸街头。&lt;/p&gt;
+&lt;p&gt;そうそうそう、一回死んでくださいよ、頼むから。&lt;/p&gt;
+&lt;p&gt;人的欲望是无限的，这我理解，但是我还是要说追求名誉的就是傻逼。借树的话来说，就是被一群吊毛不懂的傻逼把你捧上天，被一群根本不懂你的人对你大谈特谈，高谈阔论。&lt;/p&gt;
+&lt;p&gt;何其可悲。&lt;/p&gt;
+&lt;p&gt;如果说，一个人要对他人包有什么正当的期待的话，那便只有，兴趣相投而已了。接下来是幻想时间，而在此基础之上，如果你们正好是异性，又正好彼此都是靓男美女，那么恭喜，&lt;del&gt;你就是旮旯给木男主&lt;/del&gt;，你是有希望，接触到这世界上唯一美好的关系的。&lt;/p&gt;
+&lt;p&gt;反正我是不抱什么期待啦…&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>基本上是大烂毕业了</title>
         <link>http://localhost:1313/p/%E5%9F%BA%E6%9C%AC%E4%B8%8A%E6%98%AF%E5%A4%A7%E7%83%82%E6%AF%95%E4%B8%9A%E4%BA%86/</link>
         <pubDate>Sun, 19 Apr 2026 15:28:43 +0800</pubDate>
@@ -132,7 +147,7 @@
         
         <guid>http://localhost:1313/p/%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0%E6%B5%81%E7%A8%8B/</guid>
         <description>&lt;p&gt;&lt;br /&gt; 1.在dev文件夹下，在cmd里，用以下指令进行文章添加，
-&lt;br /&gt; hugo new content post/xxx/xxx.md&lt;/p&gt;
+&lt;br /&gt; hugo new content post/xxx/index.md(文件名必须是index.md，否则会出问题，比如图片传不上去)&lt;/p&gt;
 &lt;p&gt;2.在dev文件夹下，在cmd里，使用这两条指令对博客进行本地修改后的上传，
 &lt;br /&gt; hugo -D
 &lt;br /&gt; hugo server -D&lt;/p&gt;
