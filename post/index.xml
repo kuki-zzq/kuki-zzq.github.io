@@ -7,13 +7,38 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>左至桥</copyright>
-        <lastBuildDate>Sun, 26 Apr 2026 01:03:34 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 27 Apr 2026 00:04:05 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Csp漫画制作尝试</title>
+        <link>http://localhost:1313/p/csp%E6%BC%AB%E7%94%BB%E5%88%B6%E4%BD%9C%E5%B0%9D%E8%AF%95/</link>
+        <pubDate>Mon, 27 Apr 2026 00:04:05 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/csp%E6%BC%AB%E7%94%BB%E5%88%B6%E4%BD%9C%E5%B0%9D%E8%AF%95/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>不存在的彼女</title>
         <link>http://localhost:1313/p/%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E5%BD%BC%E5%A5%B3/</link>
         <pubDate>Sun, 26 Apr 2026 01:03:34 +0800</pubDate>
         
         <guid>http://localhost:1313/p/%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E5%BD%BC%E5%A5%B3/</guid>
-        <description></description>
+        <description>&lt;p&gt;真的爱上了好吧…&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E5%BD%BC%E5%A5%B3/image1.png&#34;
+	width=&#34;1024&#34;
+	height=&#34;1536&#34;
+	srcset=&#34;http://localhost:1313/p/%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E5%BD%BC%E5%A5%B3/image1_hu180243090518800685.png 480w, http://localhost:1313/p/%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E5%BD%BC%E5%A5%B3/image1_hu15707297396137458042.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;月海水崎&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;66&#34;
+		data-flex-basis=&#34;160px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;提示词：&lt;/p&gt;
+&lt;p&gt;生成一张真人cosplay风格的照片，背景是在图一县城。图中角色在喝奶茶。给人一种21世纪10年代的vibe和do4luv以及midwest emo风格，怀旧且忧郁的感觉，参考《关于莉莉周的一切》和《flcl》的风格&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>应试论</title>
