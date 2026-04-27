@@ -7,13 +7,99 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>左至桥</copyright>
-        <lastBuildDate>Mon, 27 Apr 2026 00:04:05 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Csp漫画制作尝试</title>
+        <lastBuildDate>Tue, 28 Apr 2026 03:39:17 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>沉浸记录</title>
+        <link>http://localhost:1313/p/%E6%B2%89%E6%B5%B8%E8%AE%B0%E5%BD%95/</link>
+        <pubDate>Tue, 28 Apr 2026 03:39:17 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/%E6%B2%89%E6%B5%B8%E8%AE%B0%E5%BD%95/</guid>
+        <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;日期&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;标题&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;类型&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;周目&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;沉浸方式&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;时长&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;字幕&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2026-04-28&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;火花&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;日剧&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2周目&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;无阻沉浸&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;7h50m&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;日语CC（网飞）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;类型：日剧/动画/小说/……&lt;/p&gt;
+&lt;p&gt;沉浸方式：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;娱乐沉浸（&lt;strong&gt;网飞简体中文字幕&lt;/strong&gt;，不暂停，爽看就完事儿了）——&lt;strong&gt;推荐1周目&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;无阻沉浸（&lt;strong&gt;网飞日语CC字幕&lt;/strong&gt;，不暂停，不查词）——&lt;strong&gt;推荐2周目&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;精细沉浸（不懂就暂停然后查，用ai辅助，优先chatpgt,其次deepseek专家模式）——&lt;strong&gt;推荐3周目&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;全文背诵（每一个句子都倒背如流，成为新世界的神（bushi））——&lt;strong&gt;推荐4周目&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;26/4/28&lt;/p&gt;
+&lt;img src=&#34;1.png&#34; width=&#34;400&#34;&gt;
+&lt;blockquote&gt;
+&lt;p&gt;神谷の頭上には泰然とした満月がある。&lt;br&gt;
+その美しさは平凡な奇跡だ。&lt;br&gt;
+神谷はここにいる。存在している。&lt;br&gt;
+心臓は動いていて、呼吸をしていて、ここにいる。&lt;br&gt;
+神谷はやかましいほどに全身全霊で生きている。&lt;br&gt;
+生きている限り、ベッドエンドはない。&lt;br&gt;
+僕たちはまだまだ途中だ。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;sub&gt;『火花』第10話｜残り 6:31&lt;/sub&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>csp漫画制作尝试</title>
         <link>http://localhost:1313/p/csp%E6%BC%AB%E7%94%BB%E5%88%B6%E4%BD%9C%E5%B0%9D%E8%AF%95/</link>
         <pubDate>Mon, 27 Apr 2026 00:04:05 +0800</pubDate>
         
         <guid>http://localhost:1313/p/csp%E6%BC%AB%E7%94%BB%E5%88%B6%E4%BD%9C%E5%B0%9D%E8%AF%95/</guid>
-        <description></description>
+        <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/csp%E6%BC%AB%E7%94%BB%E5%88%B6%E4%BD%9C%E5%B0%9D%E8%AF%95/image1.jpg&#34;
+	width=&#34;4299&#34;
+	height=&#34;6071&#34;
+	srcset=&#34;http://localhost:1313/p/csp%E6%BC%AB%E7%94%BB%E5%88%B6%E4%BD%9C%E5%B0%9D%E8%AF%95/image1_hu13700290433903064083.jpg 480w, http://localhost:1313/p/csp%E6%BC%AB%E7%94%BB%E5%88%B6%E4%BD%9C%E5%B0%9D%E8%AF%95/image1_hu7910550301428471022.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;分镜稿&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;70&#34;
+		data-flex-basis=&#34;169px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;其实对我来说，这样的草稿就足够表现我想表现的信息量了。其实以前也做过类似的尝试，要说有什么不一样的话：&lt;/p&gt;
+&lt;p&gt;1.&lt;strong&gt;大概就是弄懂了csp那个反人类的对话框和分镜格系统&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;这部分我不想多说，但csp这个做的真的不好，不看官方视频，你是不会弄懂这个奇怪的分镜系统的。&lt;/p&gt;
+&lt;p&gt;2.&lt;strong&gt;分镜用了参考&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;分镜上直接参考《火花》第二集神谷对德永说的那句话：その時は、俺を殺してくれ。&lt;/p&gt;
+&lt;p&gt;虽说《火花》也不是电影吧，但是这部日剧的分镜是公认的顶级水准，完全可以当作是优秀的电影分镜。而这样子的镜头还有数值不尽的可以拿来参考，活用参考还是最重要的，画工，想法什么的也许都还要排在后面。&lt;/p&gt;
+&lt;p&gt;3.&lt;strong&gt;字体使用了汉化组常用的[華康粗圓體]&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;《晚安布布》的繁中字体应该就是这个，虽然我对字体没有专业级别的敏感度，但是，至少乍一看，是差不多的，我能纳得，我能接受拿来用的程度。&lt;/p&gt;
+&lt;p&gt;4.手动深色模式。以前难以长时间作画通常就是因为画布本身的白色太晃眼了，所以这次我直接倒满一个图层的黑色油漆桶，然后降低透明度，就形成了深色模式。当然，操作界面本身是可以调整成深色模式的，我就那么做了。这样一来，屏幕全体都没有特别亮的地方，对眼睛優しい。&lt;/p&gt;
+&lt;p&gt;5.&lt;strong&gt;从一开始就使用无压感的二值笔&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;说实话除了二值笔以外的笔，特别是在勾线方面，我完全掌控不了，也不知道是因为下面我提到的客观原因，还是因为我本身手法不行的原因，还是因为我画笔设置的原因，还是因为我数位板不够好的原因，总而言之，有压感的笔刷我就是画不好。所以老老实实用二值笔了，其实这样一来作画效率会提高许多，因为你不在需要关注压感的事情了，你不用再关心下笔的轻重了，这是一件非常减负的事情。因此，你就能把精力更多的放到画面本身上来，而不是去纠结下笔的轻重是否合适。只要把你的压感笔移动到你想要有线条出现的地方就可以了。&lt;/p&gt;
+&lt;p&gt;但说实话我现在画东西得意欲不高的根本原因是桌子的空间对于我的作画来说太窮屈了。就，我的肘无论怎么样都一定是飘着的，这样的作画可以说完全没有控笔而言，勾线更是天方夜谭。基本上只是在把黑色抹到想画的地方而已。而不像是一笔一笔画出来的。&lt;/p&gt;
+&lt;p&gt;但是，没有办法，只要我没有毕业，我就只能隐忍。做题！隐忍！&lt;/p&gt;
+&lt;p&gt;觉得还有一点不满的就是对话框的问题，这种过于规整的对话框总感觉很奇怪。下次还是试试手绘对话框比较好。&lt;/p&gt;
+&lt;p&gt;成稿，目前绝对不考虑，费时费力不讨好。成稿的工作流建立绝对是对于漫画作者最大的考验，需要做的取舍，时间成本以及各种方面的计算，自由度太高反而会让人不知所措。但总之，极其耗费精力这一点，光是这一点就足以成为我不画成稿的原因，最多把草稿里会让人误会的杂线条修一修就已经是极限了。&lt;/p&gt;
+&lt;p&gt;总之还是要以取悦自己为主吧。毕竟在我看来，小说家也好，漫画家也罢，哪有不是为了取悦他人而工作的，而纯粹的爱好者，能够持续做下去的唯一动力，也就只有所心所欲这一点了。&lt;/p&gt;
+&lt;p&gt;所以，尽情的表达自己就好，不被理解也罢，就算被曲解也没有关系。&lt;/p&gt;
+&lt;p&gt;毕竟，你不过是为了自己爽才去做的，不是么？&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>不存在的彼女</title>
