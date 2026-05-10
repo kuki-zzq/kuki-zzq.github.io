@@ -7,7 +7,7 @@
 
 <link rel='canonical' href='http://localhost:1313/ja/'>
 
-<link rel="stylesheet" href="/scss/style.min.643a8c11ba1f58d656e0743bbad6e0501b705aa93c0f2ad8fd84b16ba0f40ffd.css"><meta property='og:title' content="クキ">
+<link rel="stylesheet" href="/scss/style.min.1c37895fce496d9a58457301cb6e39595d93caf77b1c15dde52826871ce74f1e.css"><meta property='og:title' content="クキ">
 <meta property='og:description' content="وصف تجريبي">
 <meta property='og:url' content='http://localhost:1313/ja/'>
 <meta property='og:site_name' content='クキ'>
@@ -177,14 +177,15 @@
 <footer class="site-footer">
     
 <section class="running-time">
-本博客已稳定运行
+本博客已运行
 <span id="runningdays" class="running-days"></span>
 </section>
 <section class="totalcount">
     
     
-    发表了0篇文章 · 
-    总计0k字
+    0篇博文 　
+ 
+    0.0w字
 </section>
 
     <section class="copyright">
@@ -214,6 +215,10 @@
     }());
 </script>
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@200..900&display=swap" rel="stylesheet">
+
 <script>
     let s1 = '2026-4-13'; 
     s1 = new Date(s1.replace(/-/g, "/"));
@@ -224,7 +229,7 @@
     let hours = Math.floor((timeDifference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
     let minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
 
-    let result = days + "天" + hours + "小时" + minutes + "分钟";
+    let result = days + "天" ;
     document.getElementById('runningdays').innerHTML = result;
 </script>
 
