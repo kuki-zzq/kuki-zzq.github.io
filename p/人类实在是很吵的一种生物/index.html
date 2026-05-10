@@ -6,7 +6,7 @@
 
 <link rel='canonical' href='http://localhost:1313/p/%E4%BA%BA%E7%B1%BB%E5%AE%9E%E5%9C%A8%E6%98%AF%E5%BE%88%E5%90%B5%E7%9A%84%E4%B8%80%E7%A7%8D%E7%94%9F%E7%89%A9/'>
 
-<link rel="stylesheet" href="/scss/style.min.0304c6baf04e01a8fe70693791cb744d56a3578a3120a8796cefc66825aa39c7.css"><meta property='og:title' content="人类实在是很吵的一种生物">
+<link rel="stylesheet" href="/scss/style.min.643a8c11ba1f58d656e0743bbad6e0501b705aa93c0f2ad8fd84b16ba0f40ffd.css"><meta property='og:title' content="人类实在是很吵的一种生物">
 <meta property='og:description' content="愈发察觉到一件事情是，此前的我一直在做无谓的逞强，就为了那被父母高高架起的，其实从来都不曾存在过的所谓自尊心，这种东西，我才不要！ 从今往后，">
 <meta property='og:url' content='http://localhost:1313/p/%E4%BA%BA%E7%B1%BB%E5%AE%9E%E5%9C%A8%E6%98%AF%E5%BE%88%E5%90%B5%E7%9A%84%E4%B8%80%E7%A7%8D%E7%94%9F%E7%89%A9/'>
 <meta property='og:site_name' content='左至桥'>
@@ -260,11 +260,20 @@
   <path d="M3 11h16" />
   <path d="M18 16.496v1.504l1 1" />
 </svg>
-                <time class="article-time--published">2026.04.13-Monday-21:45</time>
+                <time class="article-time--published">2026/04/13　21:45</time>
             </div>
         
 
+         
+        <div>
+            <?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg t="1778398508831" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="4394" width="256" height="256" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M860.669074 936.616814 244.348124 936.616814 244.348124 152.208611l616.32095 0L860.669074 936.616814zM300.377208 880.58773 804.63999 880.58773 804.63999 208.237695 300.377208 208.237695 300.377208 880.58773z" p-id="4395" fill="#9B9B9B"></path><path d="M384.421346 488.383116l336.174506 0 0 56.029084-336.174506 0 0-56.029084Z" p-id="4396" fill="#9B9B9B"></path><path d="M384.421346 600.442308l336.174506 0 0 56.029084-336.174506 0 0-56.029084Z" p-id="4397" fill="#9B9B9B"></path><path d="M384.421346 712.500477l336.174506 0 0 56.029084-336.174506 0 0-56.029084Z" p-id="4398" fill="#9B9B9B"></path><path d="M384.421346 375.860367l168.087253 0 0 56.029084-168.087253 0 0-56.029084Z" p-id="4399" fill="#9B9B9B"></path></svg>
+            <time class="article-time--reading">
+                本文共 645 字
+            </time>
+        </div>
         
+        
+         
             <div>
                 <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
   <path stroke="none" d="M0 0h24v24H0z"/>
@@ -324,16 +333,72 @@
     
 
     <footer class="site-footer">
+    
+<section class="running-time">
+本博客已稳定运行
+<span id="runningdays" class="running-days"></span>
+</section>
+<section class="totalcount">
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    发表了20篇文章 · 
+    总计24.062k字
+</section>
+
     <section class="copyright">
         &copy; 
         
         2026 左至桥
     </section>
-    
-    <section class="powerby">
-        使用 <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> 构建 <br />
-        主题 <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.26.0">Stack</a></b> 由 <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a> 设计
-    </section>
+
 </footer>
 
 
@@ -432,6 +497,20 @@
 
         document.head.appendChild(customFont);
     }());
+</script>
+
+<script>
+    let s1 = '2026-4-13'; 
+    s1 = new Date(s1.replace(/-/g, "/"));
+    let s2 = new Date();
+    let timeDifference = s2.getTime() - s1.getTime();
+
+    let days = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
+    let hours = Math.floor((timeDifference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    let minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
+
+    let result = days + "天" + hours + "小时" + minutes + "分钟";
+    document.getElementById('runningdays').innerHTML = result;
 </script>
 
     </body>

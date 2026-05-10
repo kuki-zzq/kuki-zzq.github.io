@@ -6,11 +6,11 @@
 
 <link rel='canonical' href='http://localhost:1313/categories/test/'>
 
-<link rel="stylesheet" href="/scss/style.min.0304c6baf04e01a8fe70693791cb744d56a3578a3120a8796cefc66825aa39c7.css"><meta property='og:title' content="Category: Test - 左至桥">
+<link rel="stylesheet" href="/scss/style.min.643a8c11ba1f58d656e0743bbad6e0501b705aa93c0f2ad8fd84b16ba0f40ffd.css"><meta property='og:title' content="Category: Test - 左至桥">
 <meta property='og:description' content="This is an example category">
 <meta property='og:url' content='http://localhost:1313/categories/test/'>
 <meta property='og:site_name' content='左至桥'>
-<meta property='og:type' content='website'><meta property='og:updated_time' content=' 2026-05-09T01:07:21&#43;08:00 '/><meta property='og:image' content='http://localhost:1313/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg' />
+<meta property='og:type' content='website'><meta property='og:updated_time' content=' 2026-05-10T15:56:30&#43;08:00 '/><meta property='og:image' content='http://localhost:1313/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg' />
 <meta name="twitter:title" content="Category: Test - 左至桥">
 <meta name="twitter:description" content="This is an example category"><meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content='http://localhost:1313/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg' /><link rel="alternate" type="application/rss&#43;xml" href="http://localhost:1313/categories/test/index.xml">
@@ -271,15 +271,7 @@
                     <a href="/archives/#2026">
                         
                             <span class="year">2026</span>
-                            <span class="count">19</span>
-                        
-                    </a> 
-                </div>
-            <div class="archives-year">
-                    <a href="/archives/#2020">
-                        
-                            <span class="year">2020</span>
-                            <span class="count">1</span>
+                            <span class="count">20</span>
                         
                     </a> 
                 </div>
@@ -346,16 +338,72 @@
         
     </section>
 <footer class="site-footer">
+    
+<section class="running-time">
+本博客已稳定运行
+<span id="runningdays" class="running-days"></span>
+</section>
+<section class="totalcount">
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    发表了20篇文章 · 
+    总计24.062k字
+</section>
+
     <section class="copyright">
         &copy; 
         
         2026 左至桥
     </section>
-    
-    <section class="powerby">
-        使用 <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> 构建 <br />
-        主题 <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.26.0">Stack</a></b> 由 <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a> 设计
-    </section>
+
 </footer>
 
 
@@ -376,6 +424,20 @@
 
         document.head.appendChild(customFont);
     }());
+</script>
+
+<script>
+    let s1 = '2026-4-13'; 
+    s1 = new Date(s1.replace(/-/g, "/"));
+    let s2 = new Date();
+    let timeDifference = s2.getTime() - s1.getTime();
+
+    let days = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
+    let hours = Math.floor((timeDifference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    let minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
+
+    let result = days + "天" + hours + "小时" + minutes + "分钟";
+    document.getElementById('runningdays').innerHTML = result;
 </script>
 
     </body>

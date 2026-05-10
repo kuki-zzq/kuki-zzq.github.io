@@ -6,11 +6,11 @@
 
 <link rel='canonical' href='http://localhost:1313/post/'>
 
-<link rel="stylesheet" href="/scss/style.min.0304c6baf04e01a8fe70693791cb744d56a3578a3120a8796cefc66825aa39c7.css"><meta property='og:title' content="Posts">
+<link rel="stylesheet" href="/scss/style.min.643a8c11ba1f58d656e0743bbad6e0501b705aa93c0f2ad8fd84b16ba0f40ffd.css"><meta property='og:title' content="Posts">
 <meta property='og:description' content="演示说明">
 <meta property='og:url' content='http://localhost:1313/post/'>
 <meta property='og:site_name' content='左至桥'>
-<meta property='og:type' content='website'><meta property='og:updated_time' content=' 2026-05-09T01:07:21&#43;08:00 '/>
+<meta property='og:type' content='website'><meta property='og:updated_time' content=' 2026-05-10T15:56:30&#43;08:00 '/>
 <meta name="twitter:title" content="Posts">
 <meta name="twitter:description" content="演示说明"><link rel="alternate" type="application/rss&#43;xml" href="http://localhost:1313/post/index.xml">
     <link rel="shortcut icon" href="/favicon.ico" />
@@ -270,15 +270,7 @@
                     <a href="/archives/#2026">
                         
                             <span class="year">2026</span>
-                            <span class="count">19</span>
-                        
-                    </a> 
-                </div>
-            <div class="archives-year">
-                    <a href="/archives/#2020">
-                        
-                            <span class="year">2020</span>
-                            <span class="count">1</span>
+                            <span class="count">20</span>
                         
                     </a> 
                 </div>
@@ -333,11 +325,22 @@
     <section class="article-list--compact">
         
             <article>
+    <a href="/p/ichika%E8%BF%9B%E8%A1%8C/">
+        <div class="article-details">
+            <h2 class="article-title">Ichika进行</h2>
+            <footer class="article-time">
+                <time datetime='2026-04-24T22:34:12&#43;08:00'>2026/04/24　22:34</time>
+            </footer>
+        </div>
+    </a>
+</article>
+        
+            <article>
     <a href="/p/%E7%9B%AE%E5%89%8Dpc%E8%AE%BE%E5%A4%87%E5%B7%A5%E4%BD%9C%E6%B5%81/">
         <div class="article-details">
             <h2 class="article-title">目前PC设备工作流</h2>
             <footer class="article-time">
-                <time datetime='2026-04-24T19:45:46&#43;08:00'>2026.04.24-Friday-19:45</time>
+                <time datetime='2026-04-24T19:45:46&#43;08:00'>2026/04/24　19:45</time>
             </footer>
         </div>
     </a>
@@ -348,18 +351,7 @@
         <div class="article-details">
             <h2 class="article-title">そうだね、とにかく、時間に対しての勘を戻らせないと</h2>
             <footer class="article-time">
-                <time datetime='2026-04-23T16:02:54&#43;08:00'>2026.04.23-Thursday-16:02</time>
-            </footer>
-        </div>
-    </a>
-</article>
-        
-            <article>
-    <a href="/p/%E5%8D%83%E7%B5%B5/">
-        <div class="article-details">
-            <h2 class="article-title">千絵</h2>
-            <footer class="article-time">
-                <time datetime='2026-04-20T01:11:52&#43;08:00'>2026.04.20-Monday-01:11</time>
+                <time datetime='2026-04-23T16:02:54&#43;08:00'>2026/04/23　16:02</time>
             </footer>
         </div>
     </a>
@@ -408,16 +400,72 @@
     </nav>
 
 <footer class="site-footer">
+    
+<section class="running-time">
+本博客已稳定运行
+<span id="runningdays" class="running-days"></span>
+</section>
+<section class="totalcount">
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+    发表了20篇文章 · 
+    总计24.062k字
+</section>
+
     <section class="copyright">
         &copy; 
         
         2026 左至桥
     </section>
-    
-    <section class="powerby">
-        使用 <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> 构建 <br />
-        主题 <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.26.0">Stack</a></b> 由 <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a> 设计
-    </section>
+
 </footer>
 
 
@@ -438,6 +486,20 @@
 
         document.head.appendChild(customFont);
     }());
+</script>
+
+<script>
+    let s1 = '2026-4-13'; 
+    s1 = new Date(s1.replace(/-/g, "/"));
+    let s2 = new Date();
+    let timeDifference = s2.getTime() - s1.getTime();
+
+    let days = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
+    let hours = Math.floor((timeDifference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    let minutes = Math.floor((timeDifference % (1000 * 60 * 60)) / (1000 * 60));
+
+    let result = days + "天" + hours + "小时" + minutes + "分钟";
+    document.getElementById('runningdays').innerHTML = result;
 </script>
 
     </body>
