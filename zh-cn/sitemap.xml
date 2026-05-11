@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-05-10T15:56:30+08:00</lastmod>
+    <lastmod>2026-05-11T21:45:42+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -16,7 +16,10 @@
                 />
   </url><url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2026-05-10T15:56:30+08:00</lastmod>
+    <lastmod>2026-05-11T21:45:42+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/p/%E4%B8%8El%E5%A5%B3%E5%A3%AB%E7%9A%84%E5%86%8D%E4%BC%9A/</loc>
+    <lastmod>2026-05-11T21:45:42+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/p/%E9%9A%8F%E7%AC%944/</loc>
     <lastmod>2026-05-10T15:56:30+08:00</lastmod>
